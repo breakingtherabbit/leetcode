@@ -84,3 +84,6 @@ buildNumber.properties
 # Eclipse m2e generated files
 # Eclipse Core
 # JDT-specific (Eclipse Java Development Tools)
+
+.idea
+leetcode.iml
